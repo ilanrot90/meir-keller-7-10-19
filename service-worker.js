@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/meir-keller-7-10-19/precache-manifest.1d0178b3b765b6088c3a582833706c25.js"
+  "/meir-keller-7-10-19/precache-manifest.bdfc40e044d04bdb688ccf6180a90055.js"
 );
 
 self.addEventListener('message', (event) => {

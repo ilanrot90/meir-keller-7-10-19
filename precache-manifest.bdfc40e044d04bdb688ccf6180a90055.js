@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "419d0bdace4c4b481aa9c55659a5a390",
+    "revision": "a769ef08fcd69585ddb1ec39f51ef906",
     "url": "/meir-keller-7-10-19/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meir-keller-7-10-19/static/js/2.7741ed90.chunk.js"
   },
   {
-    "revision": "7d10c7750f2bf457411c",
-    "url": "/meir-keller-7-10-19/static/js/main.3247e264.chunk.js"
+    "revision": "0bb538b546af9613e20a",
+    "url": "/meir-keller-7-10-19/static/js/main.49a2f291.chunk.js"
   },
   {
     "revision": "3217d638e2186df0eba4",
